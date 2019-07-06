@@ -31,3 +31,8 @@ In this lesson, Ian Goodfellow will lead you through implementing a semi-supervi
 Here we'll use the SVHN dataset again and attempt to classify the images with a large proportion of the labels dropped.
 
 As a heads up, this material is cutting edge and is more difficult to understand and implement than what you've seen before. But, you'll learn a lot and see some really cool results.
+
+## Project: Face Generation
+### Introduction
+In this project, you'll use generative adversarial networks to generate new images of faces.
+
